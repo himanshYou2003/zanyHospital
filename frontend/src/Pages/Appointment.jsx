@@ -6,7 +6,7 @@ const Appointment = () => {
   return (
     <>
       <Hero
-        title={"Schedule Your Appointment | Zany Medical Institute"}
+        title={"Schedule Your Appointment | Care fusion  Institute"}
         imageUrl={"/signin.png"}
       />
       <AppointmentForm/>
